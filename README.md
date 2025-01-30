@@ -1,6 +1,4 @@
-Below is a **README.md** file you can use in your GitHub repository. It introduces the purpose of the code samples, outlines usage steps, and highlights important configuration details for Stream Chat + Elasticsearch integration.
 
----
 
 # **Stream Chat + Elasticsearch Integration**
 
